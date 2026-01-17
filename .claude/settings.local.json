@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Users\\\\denem\\\\Desktop\\\\go_router\\\\go_router\\\\lib\\\\product\\\\navigation\\\\app_gorouter.dart\")",
+      "Bash(flutter pub get:*)",
+      "Bash(dart run build_runner build:*)"
+    ]
+  }
+}
